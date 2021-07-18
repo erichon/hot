@@ -1,5 +1,5 @@
 let status = 0
-let duration = randint(8, 15)
+let duration = randint(5, 15)
 while (duration > 0) {
     duration += -1
     if (status == 0) {
